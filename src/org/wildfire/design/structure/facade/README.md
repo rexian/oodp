@@ -1,0 +1,2 @@
+# Facade Design Pattern
+Facade design pattern hides the complexities of the system and provides an interface to the client through which the client can access the system. The facade design pattern comes under structural pattern as this pattern adds an interface to existing system to hide its complexities.
