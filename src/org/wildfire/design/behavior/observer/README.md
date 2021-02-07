@@ -1,0 +1,2 @@
+# Observer Design Pattern
+Observer pattern is used when there is one-to-many relationship among objects such as if one object is modified, its depenedent objects are notified automatically. Observer pattern uses three actor classes Subject, Observer and Client. Observer pattern falls under behavioral pattern category.
