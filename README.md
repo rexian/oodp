@@ -2,4 +2,4 @@
 Object oriented design pattern
 
 
-<https://github.com/rexian/oodp/tree/master/src/org/wildfire/design/behavior/iterator>
+<WrapUrls @text="Iterator Design Pattern: https://github.com/rexian/oodp/tree/master/src/org/wildfire/design/behavior/iterator" />
