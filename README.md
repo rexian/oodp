@@ -1,4 +1,4 @@
 # oodp
 Object oriented design pattern
 
-[Iterator Design Pattern]
+[iterator-design-pattern]
